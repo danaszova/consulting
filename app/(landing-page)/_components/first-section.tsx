@@ -17,7 +17,7 @@ const FirstSection = () => {
             pt-10
             
             ">
-                One video is worth a thousand words
+                Smarter, Faster, and Cost-Effective
 
             </div>
 
@@ -34,10 +34,12 @@ const FirstSection = () => {
             
             ">
 
-            Easily record and share
-            AI-powered video messages
-            with your teammates and
-            customers to supercharge productivity
+            Bring your ideas to life with automation 
+            and AI-driven development. Our unique approach 
+            ensures high-quality solutions at reduced costs, 
+            so you can scale faster and stay competitive—from 
+            AI-powered applications to data-driven analytics.
+            Experience Innovation That Saves You Time and Money.
 
             </p>
 
