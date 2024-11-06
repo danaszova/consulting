@@ -12,8 +12,7 @@ const SecondSection = () => {
                   <div className="space-y-10">
                     <div className="space-y-1 md:text-md">
                       <div className="text-[#2b1c50] font-medium md:leading-normal md:text-4xl">
-                        Keep your team engaged while collaborating
-                        asynchronously
+                      Skilled Talent, Ready to Drive Your Vision Forward
                       </div>
                       <div
                         className="
@@ -27,41 +26,35 @@ const SecondSection = () => {
                                            md:w-4/5
                                            "
                       >
-                        Using Bird, you can ask questions, share ideas, and
-                        exchange knowledge without time zones or busy calendars
-                        getting in the way.
+                        Finding skilled technical talent can be tough. 
+                        We simplify the process with flexible staffing 
+                        solutions tailored to your needs, specializing 
+                        in programmers, DevOps, and other technical roles.
                       </div>
                     </div>
 
                     <div className="space-y-1">
                       <div className="text-[#2b1c50] text-sm md:text-xl font-medium leading-normal">
-                        Share ideas in high resolution
+                      Direct Sourcing
                       </div>
                       <div className="text-sm md:text-md text-[#3d2e7c] pt-1 leading-6 md:leading-10 font-light md:w-4/5">
-                        Speak to your vision while sharing your design as you
-                        record your screen, camera or both with Bird.
+                      For companies that prefer to handle the interview and hiring process directly, 
+                      we provide a list of qualified candidates ready for your review. We take care 
+                      of sourcing and initial vetting, giving you access to top talent from the Philippines 
+                      known for technical excellence and reliability. This model offers a cost-effective, 
+                      straightforward hiring approach.
                       </div>
                     </div>
-
-                    <div className="space-y-1">
+                   <div className="space-y-1">
                       <div className="text-[#2b1c50] text-sm md:text-xl font-medium leading-normal">
-                        Add context to your concept
+                      Full-Service Staffing
                       </div>
                       <div className="text-sm md:text-md text-[#3d2e7c] pt-1 leading-6 md:leading-10 font-light md:w-4/5">
-                        Use video to document the thinking behind your ideas and
-                        loop in the right people at the right time, with the
-                        right context.
-                      </div>
-                    </div>
-
-                    <div className="space-y-1">
-                      <div className="text-[#2b1c50] text-sm md:text-xl font-medium leading-normal">
-                        Send your video with a link
-                      </div>
-                      <div className="text-sm md:text-md text-[#3d2e7c] pt-1 leading-6 md:leading-10 font-light md:w-4/5">
-                        Use Bird&apos;s instantly-generated links to share your video
-                        in Slack, Figma, Sketch, and anywhere else your team
-                        works.
+                      In this comprehensive option, we handle everything from sourcing to 
+                      onboarding and ongoing guidance. We interview and hire candidates on 
+                      your behalf, ensuring they align with your company’s values and goals. 
+                      Our team manages their work, freeing you to focus on higher-level priorities 
+                      while benefiting from reliable, AI-optimized staffing support.
                       </div>
                     </div>
                   </div>
