@@ -26,16 +26,14 @@ const Quote = () => {
               />
             </div>
             <div className="md:text-3xl font-medium md:w-3/5 text-center">
-              &quot;Bird allows me to connect more personally with people
-              without having to do 75 different one-on-one calls, which is just
-              impossible at scale.&quot;
+              &quot;Working with a staffing partner simplified our hiring process and provided access to top talent quickly. It allowed us to focus on our core operations without worrying about compliance or recruitment challenges—a true game-changer for our growth.&quot;
             </div>
 
             <div className="flex items-center md:justify-center space-x-4 md:space-x-0">
 
               <div className="text-[#6c6684] text-center">
-                <div className="font-medium">Alex Berman</div>
-                <div className="text-sm">Chief Marketing Officer</div>
+                <div className="font-medium">Jason S</div>
+                <div className="text-sm">Chief Executive Officer</div>
               </div>
             </div>
           </div>

@@ -26,7 +26,7 @@ const Quote = () => {
               />
             </div>
             <div className="md:text-3xl font-medium md:w-3/5 text-center">
-              &quot;Bird allows me to connect more personally with people
+              &quot;personally with people
               without having to do 75 different one-on-one calls, which is just
               impossible at scale.&quot;
             </div>

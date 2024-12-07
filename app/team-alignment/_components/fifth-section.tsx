@@ -25,21 +25,19 @@ const FifthSection = () => {
               <div className="order-1 md:order-2 md:flex-1 px-10 md:px-0 space-y-10">
                 <div className="space-y-1 text-md">
                   <div className="text-[#6f1f1d] font-medium leading-normal text-2xl md:text-4xl pb-4">
-                    Get your message across
+                  Focus on Core Business and Minimize Risk
                   </div>
                   <div className="text-md text-[#6f1f1d] md:leading-8 font-light">
-                    Bird helps you develop and build close connections to your
-                    team so you can do your best work together.
+                  Stay focused on growing your business while we handle hiring and workforce management. We ensure smooth operations and full compliance, so you can work smarter, not harder.
                   </div>
                 </div>
 
                 <div className="space-y-1 text-[#6f1f1d]">
                     <div className="text-xl font-medium leading-normal">
-                        Share ideas in high resolution
+                    Free Up Valuable Time and Resources
                     </div>
                     <div className="text-sm md:text-md leading-6 md:leading-10 font-light">
-                    Speak to your vision while sharing your design as you record 
-                    your screen, camera, or both with Bird.
+                    Let us handle the complexities of recruitment, payroll, and compliance, so your team can concentrate on driving innovation and growth. By outsourcing staffing to experts, you gain the bandwidth to focus on your core operations and strategic goals.
 
                     </div>
 
@@ -47,12 +45,10 @@ const FifthSection = () => {
 
                 <div className="space-y-1 text-[#6f1f1d]">
                     <div className="text-xl font-medium leading-normal">
-                    Add context to your concept
+                    Reduce Liability and Ensure Compliance
                     </div>
                     <div className="text-sm md:text-md leading-6 md:leading-10 font-light">
-                    Use video to document the thinking behind your ideas 
-                    and loop in the right people at the right time, with the right context.
-
+                    We take the stress out of staying compliant with labor laws and regulations. From payroll taxes to workers' compensation, we manage the risks associated with hiring, giving you peace of mind and reducing potential legal exposure.
                     </div>
 
                 </div>

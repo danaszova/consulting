@@ -21,7 +21,7 @@ const Explore = () => {
         pb-20      
       "
       >
-        Explore more ways to use Bird
+        The Right Team for Every Project
       </div>
      
       
@@ -73,11 +73,11 @@ const Explore = () => {
                    
                    "
           >
-            Engineering
+            Programmers
           </div>
 
           <div className="text-[#2b1c50] text-center leading-8 pt-4">
-            Add visual context to your code to accelarate your sprints.
+          Code smarter with top-tier developers ready to build your next solution.
           </div>
         </div>
 
@@ -119,7 +119,7 @@ const Explore = () => {
           </div>
 
           <div className="text-[#2b1c50] text-center leading-8 pt-4">
-          Personalize your pitch with video outreach to close more deals, faster.
+          Keep your customers happy with friendly, knowledgeable support teams.
           </div>
         </div>
 
@@ -157,11 +157,11 @@ const Explore = () => {
                    
                    "
           >
-          Design
+          Designers
           </div>
 
           <div className="text-[#2b1c50] text-center leading-8 pt-4">
-          Personalize your pitch with video outreach to close more deals, faster.
+          Get creative with designers who turn ideas into impactful visuals.
           </div>
         </div>
       </div>
@@ -182,7 +182,7 @@ const Explore = () => {
     shadow-md
 
         ">
-            See all use cases
+            Discover more Roles
             </Button>
 
       </div>
