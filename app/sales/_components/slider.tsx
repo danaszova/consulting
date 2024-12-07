@@ -34,7 +34,7 @@ const Slider = () => {
         >
           <div className="flex items-center justify-between px-6 gap-4">
             <Download className="w-4 h-4 md:w-6 md:h-6" />
-            <div className="text-lg">Get Bird for free</div>
+            <div className="text-lg">Get Started for Free</div>
           </div>
         </div>
       </div>

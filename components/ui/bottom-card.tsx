@@ -31,7 +31,7 @@ const BottomCard = () => {
           >
             <div className="flex items-center justify-center gap-4 md:justify-between px-6">
               <Download className="md:w-6 md:h-6 h-4 w-4" />
-              <div className="md:text-lg text-sm">Get bird for free</div>
+              <div className="md:text-lg text-sm">Get Started for Free</div>
             </div>
           </div>
         </div>

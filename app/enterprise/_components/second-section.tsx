@@ -19,7 +19,7 @@ const SecondSection = () => {
                 text-3xl
                 font-medium
                 ">
-                    Thousands of leading enterprise teams use Bird
+                    Modern Solutions, Powered by Proven Technology.
             </div>
             <div className="py-20">
                 <SliderOne />

@@ -10,7 +10,7 @@ const ThirdSection = () => {
             <div className="space-y-10">
               <div className="space-y-1 text-md">
                 <div className="text-[#1c2850] font-medium leading-normal text-3xl md:text-4xl pb-4">
-                  Get your message across
+                  Get2 your message across
                 </div>
                 <div className="text-xl text-[#1f3575] leading-8 font-light">
                   Keep everyone on track and in the loop using streamlined

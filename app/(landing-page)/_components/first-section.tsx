@@ -71,7 +71,7 @@ const FirstSection = () => {
                     
                     
                     ">
-                        Get Bird for Free
+                        Get Started for Free
                     </Button>
                 </Link>
 

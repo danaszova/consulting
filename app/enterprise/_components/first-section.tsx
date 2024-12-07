@@ -22,7 +22,8 @@ const FirstSection = () => {
             pb-10
             text-[#f1f0f3]
             ">
-                Companies work smarter with Bird
+                Optimized Cloud Architecture for Your Business
+
             </div>
             <p className="
             text-xl
@@ -33,8 +34,7 @@ const FirstSection = () => {
             text-[#bbb6c6]
             leading-normal
             ">
-                Bird&apos;s enterprise-grade platform lets 
-                organizations securely communicate using async video.
+                Our cloud solutions focus on scalability, cost-effectiveness, and simplicity, ensuring professional-grade performance, robust security, and long-term reliability.
             </p>
 
             <div className="

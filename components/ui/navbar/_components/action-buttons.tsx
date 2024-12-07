@@ -82,7 +82,7 @@ const ActionButtons = () => {
                 hover:shadow-indigo-300
                 
                 ">
-                    Get Bird for Free
+                    Get Started for Free
                 </Button>
             </Link>
             <Link href={"/contact"}>

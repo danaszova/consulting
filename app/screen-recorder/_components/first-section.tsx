@@ -75,7 +75,7 @@ const FirstSection = () => {
             "   
             >
                 <Download className="md:w-6 md:h-6 h-4 w-4" />
-                Get Bird for Free
+                Get Started for Free
 
             </Button>
         </div>
