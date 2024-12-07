@@ -5,7 +5,7 @@ const FourthSection = () => {
     <div className="md:py-10">
         <div className="px-10 md:text-center space-y-4">
             <div className="text-3xl md:text-7xl md:justify-center font-medium pt-20">
-            Accelerate the flow of information
+            Accelerate2 the flow of information
                  
             </div>
             <p className="text-xl md:text-3xl font-light md:w-3/4 md:mx-auto text-[#3b394e] leading-normal">

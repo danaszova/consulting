@@ -10,41 +10,36 @@ const ThirdSection = () => {
             <div className="space-y-10">
               <div className="space-y-1 text-md">
                 <div className="text-[#1c2850] font-medium leading-normal text-3xl md:text-4xl pb-4">
-                  Get2 your message across
-                </div>
+                Reclaim Your Day               </div>
                 <div className="text-xl text-[#1f3575] leading-8 font-light">
-                  Keep everyone on track and in the loop using streamlined
-                  communication that scales.
+                Spend less time sorting resumes and more time growing your business. With us in your corner, you’ll have expert support every step of the way.
                 </div>
               </div>
 
               <div className="space-y-1">
                 <div className="text-xl text-[#1f3575] font-medium leading-normal">
-                  Share ideas in high resolution
+                  Streamlined Hiring Processes
                 </div>
                 <div className="text-sm md:text-md text-[#1f3575] leading-6 md:leading-10 font-light">
-                  Speak to your vision while sharing your design as you record
-                  your screen, camera or both with Bird.
+                Our proven strategies and tools ensure a smooth, efficient recruiting process, cutting down the time it takes to fill a role.
                 </div>
               </div>
 
               <div className="space-y-1">
                 <div className="text-xl text-[#1f3575] font-medium leading-normal">
-                  Add context to your concept
+                Expert Screening and Vetting
                 </div>
                 <div className="text-sm md:text-md text-[#1f3575] leading-6 md:leading-10 font-light">
-                  Use video to document the thinking behind your ideas and loop
-                  in the right people at the right time, with the right context.
+                We thoroughly assess candidates, so you only spend time interviewing those who truly fit your needs.
                 </div>
               </div>
 
               <div className="space-y-1">
                 <div className="text-xl text-[#1f3575] font-medium leading-normal">
-                  Send your video with a link
+                Faster Access to Qualified Talent
                 </div>
                 <div className="text-sm md:text-md text-[#1f3575] leading-6 md:leading-10 font-light">
-                  Use Bird&apos;s instantly-generated links to share your video in
-                  Slack, Figma, Sketch, and anywhere else your team works.
+                Our expertise and network of top-tier candidates mean you’ll spend less time searching and more time onboarding the right people.
                 </div>
               </div>
             </div>
