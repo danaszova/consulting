@@ -6,7 +6,7 @@ const Slider = () => {
   return (
     <div className="pt-20 md:pt-40">
       <div className="text-[#2b1c50] md:w-3/5 mx-auto text-center flex justify-center items-center md:text-5xl text-2xl px-10 font-medium">
-        More than 21 million people across 120,000 companies choose Bird
+      All the talent, all the platforms, all with us.
       </div>
 
       <div className="pt-10 mb-20 md:pb-0 items-center justify-center flex">

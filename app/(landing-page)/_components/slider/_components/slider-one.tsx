@@ -15,7 +15,7 @@ const SliderOne = () => {
         <Image src="/logos/logoipsum-211.svg" alt="logo" width={100} height={100}  className=" md:w-20 h-20 text-gray-500"  />
         </Slider.Slide>
         <Slider.Slide>
-        <Image src="/logos/logoipsum-223.svg" alt="logo" width={100} height={100}  className="w-16 h-16"  />
+        <Image src="/logos/onlinejobsph.webp" alt="logo" width={100} height={100}  style={{ height: '100px', width: 'auto' }}   />
         </Slider.Slide>
         <Slider.Slide>
         <Image src="/logos/logoipsum-224.svg" alt="logo" width={100} height={100}  className="w-16 h-16"  />
